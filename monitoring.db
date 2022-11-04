@@ -1,0 +1,6 @@
+# monitoring.db
+
+teste http2	HTTP	zarusjoias.com.br	HEAD	200	5
+teste http1	HTTP	zarusjoias.com.br	GET	200	5
+teste ping	PING	zarusjoias.com.br	5
+teste dns	DNS	zarusjoias.com.br	5	8.8.8.8
